@@ -25,7 +25,7 @@ function firstPrompt() {
       .prompt({
         type: "list",
         name: "task",
-        message: "Would you like to do?",
+        message: "What would you like to do?",
         choices: [
           "View All Employees",
           "View All Employees by Department",
